@@ -1,0 +1,50 @@
+Iteratif running time
+2^10
+
+iterasi ke 1 = 2
+--- 0.0 seconds ---
+iterasi ke 2 = 4
+--- 0.0009696483612060547 seconds ---
+iterasi ke 3 = 8
+--- 0.0011572837829589844 seconds ---
+iterasi ke 4 = 16
+--- 0.0011572837829589844 seconds ---
+iterasi ke 5 = 32
+--- 0.0011572837829589844 seconds ---
+iterasi ke 6 = 64
+--- 0.0011572837829589844 seconds ---
+iterasi ke 7 = 128
+--- 0.0011572837829589844 seconds ---
+iterasi ke 8 = 256
+--- 0.0021538734436035156 seconds ---
+iterasi ke 9 = 512
+--- 0.0031540393829345703 seconds ---
+iterasi ke 10 = 1024
+--- 0.0031540393829345703 seconds ---
+Hasil dari  2 pangkat 10 = 1024
+
+==================================================
+Rekursif running time
+2^10
+
+rekursif 1 =  2
+--- 0.0 seconds ---
+rekursif 2 =  4
+--- 0.0 seconds ---
+rekursif 3 =  8
+--- 0.0 seconds ---
+rekursif 4 =  16
+--- 0.0009989738464355469 seconds ---
+rekursif 5 =  32
+--- 0.0009989738464355469 seconds ---
+rekursif 6 =  64
+--- 0.0009989738464355469 seconds ---
+rekursif 7 =  128
+--- 0.0009989738464355469 seconds ---
+rekursif 8 =  256
+--- 0.0009989738464355469 seconds ---
+rekursif 9 =  512
+--- 0.0009989738464355469 seconds ---
+rekursif 10 =  1024
+--- 0.0009989738464355469 seconds ---
+Hasil dari  2 pangkat 10 = 1024
